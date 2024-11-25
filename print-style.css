@@ -1,0 +1,44 @@
+    h1.banner-cta-btn {
+        background-color: #000;
+        position: fixed;
+        bottom: 0px;
+        z-index: 9999;
+        display: none;
+        width: 100%;
+        left: 0;
+        margin-bottom: 0px;
+    }
+    .banner-cta-btn a {
+    color: white;
+    padding: 4px 17px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.heading{
+    color:#000;
+}
+
+@media (min-width:320px) and (max-width:767px){
+.header.header-light.shadow {display: none;}
+.p-btn a {position: fixed!important;width: 100%;top: 0px!important;display: block;z-index: 9999999;left: 0px!important;background: #000!important;font-size: 21px!important;margin-left: 0px!important;height: auto!important;}
+ h1.banner-cta-btn {display: block;}
+ .heading {font-size: 19px!important;}
+ ul.circle-right {padding-left: 0px;}
+section.three_printer {padding: 9px 0 8px !important;}
+.three_boxp {padding: 11px 11px 7px 70px;}
+.three_boxp .icone {top: 6px;}
+.printer_about {padding: 0px 0!important;}
+.dnbfpmb {display: none;}
+.mobvscss {display: none;}
+footer {padding: 31px 0;background: #007dbd;}
+.head {  color: #fff;}
+footer p {color: #fff;}
+.mbcsda {display: none;}
+section.product_print {display: none;}
+.mbvcsd {display: none;}
+
+
+
+
+}
